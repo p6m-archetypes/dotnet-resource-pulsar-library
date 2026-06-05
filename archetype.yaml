@@ -1,0 +1,14 @@
+---
+description: ".NET Pulsar Messaging — DotPulsar client module for ASP.NET Core services"
+summary: >
+  Generates a Resources/Messaging.cs with MessagingExtensions using DotPulsar
+  PulsarClient.Builder. Consumed as a library by .NET service archetypes.
+authors: ["Jimmie Fulton <jimmie@ybor.ai>"]
+tags: ["library", "dotnet", "messaging", "pulsar", "dotpulsar"]
+
+requires:
+  archetect: "3.0.0"
+
+templating:
+  trim_blocks: true
+  lstrip_blocks: true
