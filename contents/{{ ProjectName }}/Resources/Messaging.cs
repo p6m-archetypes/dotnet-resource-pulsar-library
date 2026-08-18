@@ -1,7 +1,7 @@
 using DotPulsar;
 using DotPulsar.Extensions;
 
-namespace {{ PrefixName }}{{ SuffixName }}.Resources;
+namespace {{ ProjectName }}.Resources;
 
 public static class MessagingExtensions
 {
